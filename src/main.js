@@ -3,7 +3,7 @@
 // import Vue from 'vue'
 
 import 'babel-polyfill'
-import 'element-ui/lib/theme-chalk/index.css';
+// import 'element-ui/lib/theme-chalk/index.css';
 import App from './App';
 import store from './store/index'
 import router from './router'
